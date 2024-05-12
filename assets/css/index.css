@@ -1,0 +1,15 @@
+/* GLOBAL */
+
+.box__shadow01{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.box__shadow02{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+/* DOM */
+.dom__bg{
+    width: 100%;
+    height: 100vh;
+    background: #EDF2F9;
+}
